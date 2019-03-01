@@ -1,0 +1,11 @@
+{
+  "name": "@craigmc08/parse-gpx",
+  "version": "1.0.0",
+  "description": "Parse gpx files into json",
+  "main": "index.js",
+  "author": "craigmc08",
+  "license": "WTFPL",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
